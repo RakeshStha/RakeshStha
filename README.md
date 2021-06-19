@@ -55,5 +55,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.shrestharakesh.com.np"><img src="https://img.shields.io/badge/-shrestharakesh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.shrestharakesh.com.np"><img src="https://img.shields.io/badge/-www.shrestharakesh.com.np-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 </p>
