@@ -1,8 +1,9 @@
+![software](https://user-images.githubusercontent.com/56125560/122636303-40151880-d108-11eb-9292-f800fbb770a3.png)
 
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Rakesh Shrestha</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<!-- ## 👋 &nbsp;Hey there! I'm Rakesh Shrestha -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -14,7 +15,7 @@
 ✉️ &nbsp;You can shoot me an email at rakeshshrestha3222@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.shrestharakesh.com.np/lol.php) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/UnknownBeginner3222/UnknownBeginner3222/blob/main/assets/Night-Coding.gif?raw=true" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -55,10 +56,4 @@
 
 <p align="center">
 <a href="https://www.shrestharakesh.com.np"><img src="https://img.shields.io/badge/-shrestharakesh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/rakesh-shrestha-180171186/><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<!--<a href="mailto:rakeshshrestha3222@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
-<!--<a href="https://instagram.com/rks.stha"><img src="https://img.shields.io/badge/-@rks_Stha?style=flat&logo=Instagram&logoColor=white"/></a> -->
-<!--<a href="https://facebook.com/"><img src="https://img.shields.io/badge/-@Rakesh Shrestha?style=flat&logo=Facebook&logoColor=white"/></a> -->
-<!-- <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
-<!-- <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
 </p>
