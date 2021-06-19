@@ -44,9 +44,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/UnknownBeginner3222">
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=unknownbeginner3222&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unknownbeginner3222&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=unknownbeginner3222&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
