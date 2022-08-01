@@ -1,7 +1,3 @@
-![software](https://user-images.githubusercontent.com/56125560/122636303-40151880-d108-11eb-9292-f800fbb770a3.png)
-
-<img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"/>
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Rakesh Shrestha</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Rakesh Shrestha -->
@@ -42,6 +38,11 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-orange)
+
+
+### ⚙️ &nbsp;Github Trophy
+<img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"/>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
