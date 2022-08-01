@@ -1,4 +1,5 @@
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia
+<img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia" align="center"/>
+
 ![software](https://user-images.githubusercontent.com/56125560/122636303-40151880-d108-11eb-9292-f800fbb770a3.png)
 
 
