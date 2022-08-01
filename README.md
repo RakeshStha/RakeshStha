@@ -12,10 +12,10 @@
 🌱 &nbsp;I'm on track for learning more about Software Development, Web Application Development and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Web Design and Coding as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for any web development idea or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at rakeshshrestha3222@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at dev.rakeshshrestha@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.shrestharakesh.com.np/lol.php) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://github.com/UnknownBeginner3222/UnknownBeginner3222/blob/main/assets/Night-Coding.gif?raw=true" align="right"/>
+<img alt="Night Coding" src="https://github.com/RakeshStha/RakeshStha/blob/main/assets/Night-Coding.gif?raw=true" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -45,10 +45,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/UnknownBeginner3222">
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=unknownbeginner3222&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unknownbeginner3222&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=unknownbeginner3222&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/RakeshStha">
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakeshstha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakeshstha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakeshstha&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
