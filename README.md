@@ -52,7 +52,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakeshstha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakeshstha&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rakeshstha&theme=vue-dark&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rakeshstha&theme=vue-dark&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
