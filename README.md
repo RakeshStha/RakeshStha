@@ -43,7 +43,7 @@
 ### 🏆 &nbsp;Github Trophy
 <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rakeshstha)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rakeshstha&theme=vue-dark&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
