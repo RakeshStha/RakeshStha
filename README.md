@@ -40,7 +40,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-orange)
 
 
-### ⚙️ &nbsp;Github Trophy
+### 🏆 &nbsp;Github Trophy
 <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia"/>
 
 
